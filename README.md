@@ -28,7 +28,7 @@ Each solution file can be run independently and corresponds to the problem order
 ## 👤 Author
 
 [Dheeraj Kumar Ambedkar]  
-Artificial Intelligence Course – [Sai University]  
+Advanced Programming Course – [Sai University]  
 Instructor: [Ujjwal Verma]
 
 ---
