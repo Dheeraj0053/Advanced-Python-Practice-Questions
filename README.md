@@ -1,4 +1,4 @@
-# Advanced-Python-Practice-Questions
+# Advanced-Programming-Final-Assignment
 
 This repository contains solutions to a set of 27 Python coding questions designed to reinforce foundational concepts in Advanced Programming. These problems were part of a university-level practice set and cover a range of logic-based and algorithmic challenges.
 
